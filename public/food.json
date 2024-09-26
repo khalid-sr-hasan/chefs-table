@@ -1,0 +1,142 @@
+[
+    {
+        "recipe_id": "R001",
+        "recipe_name": "Basil Chicken Stir-Fry",
+        "recipe_image": "https://img.freepik.com/free-photo/top-view-mexican-food-ready-be-served_23-2148614434.jpg?t=st=1714495461~exp=1714499061~hmac=5ff146d16b9cba06bddbfb25e3ea93d02df6ce3cd5f0ec6cfaa16ad571eb6f8c&w=740",
+        "short_description": "Delicious and easy basil chicken stir-fry.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g basil leaves",
+            "400 g mushroom"
+        ],
+        "preparing_time": 30,
+        "calories": 320
+    },
+    {
+        "recipe_id": "V002",
+        "recipe_name": "Vegetable Curry",
+        "recipe_image": "https://rb.gy/xcqnrv",
+        "short_description": "A flavorful and hearty vegetable curry.",
+        "ingredients": [
+            "400 g mixed vegetables",
+            "200 ml coconut milk",
+            "100 g curry paste",
+            "100 g tofu"
+        ],
+        "preparing_time": 45,
+        "calories": 280
+    },
+    {
+        "recipe_id": "C003",
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_image": "https://rb.gy/nuihnp",
+        "short_description": "Classic spaghetti carbonara with bacon and cheese.",
+        "ingredients": [
+            "300 g spaghetti",
+            "100 g bacon",
+            "3 eggs",
+            "50 g grated Parmesan cheese"
+        ],
+        "preparing_time": 25,
+        "calories": 450
+    },
+    {
+        "recipe_id": "R004",
+        "recipe_name": "Mushroom Risotto",
+        "recipe_image": "https://rb.gy/vn609f",
+        "short_description": "Creamy mushroom risotto with Arborio rice.",
+        "ingredients": [
+            "300 g Arborio rice",
+            "200 g mushrooms",
+            "1 liter vegetable broth",
+            "100 ml white wine"
+        ],
+        "preparing_time": 40,
+        "calories": 380
+    },
+    {
+        "recipe_id": "S005",
+        "recipe_name": "Grilled Salmon",
+        "recipe_image": "https://rb.gy/5lkaov",
+        "short_description": "Juicy grilled salmon with lemon and herbs.",
+        "ingredients": [
+            "500 g salmon fillets",
+            "1 lemon",
+            "50 g fresh dill",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 20,
+        "calories": 290
+    },
+    {
+        "recipe_id": "C006",
+        "recipe_name": "Caprese Salad",
+        "recipe_image": "https://rb.gy/f5lpgi",
+        "short_description": "Fresh and vibrant Caprese salad with tomatoes and mozzarella.",
+        "ingredients": [
+            "500 g tomatoes",
+            "250 g mozzarella cheese",
+            "50 ml balsamic vinegar",
+            "Fresh basil leaves"
+        ],
+        "preparing_time": 15,
+        "calories": 210
+    },
+    {
+        "recipe_id": "A007",
+        "recipe_name": "Chicken Alfredo Pasta",
+        "recipe_image": "https://rb.gy/rs8ip3",
+        "short_description": "Creamy chicken alfredo pasta with garlic and Parmesan.",
+        "ingredients": [
+            "400 g fettuccine pasta",
+            "300 g chicken breast",
+            "200 ml heavy cream",
+            "50 g grated Parmesan cheese"
+        ],
+        "preparing_time": 35,
+        "calories": 480
+    },
+    {
+        "recipe_id": "R008",
+        "recipe_name": "Ratatouille",
+        "recipe_image": "https://rb.gy/qdk6vh",
+        "short_description": "Classic French ratatouille with vegetables and herbs.",
+        "ingredients": [
+            "400 g eggplant",
+            "300 g zucchini",
+            "200 g bell peppers",
+            "300 g tomatoes"
+        ],
+        "preparing_time": 50,
+        "calories": 220
+    },
+    {
+        "recipe_id": "T009",
+        "recipe_name": "Tacos",
+        "recipe_image": "https://rb.gy/szi2y9",
+        "short_description": "Savory tacos with seasoned ground beef and toppings.",
+        "ingredients": [
+            "400 g ground beef",
+            "200 g taco shells",
+            "100 g shredded lettuce",
+            "100 g diced tomatoes"
+        ],
+        "preparing_time": 30,
+        "calories": 350
+    },
+    {
+        "recipe_id": "S010",
+        "recipe_name": "Mango Smoothie",
+        "recipe_image": "https://rb.gy/9jp0eo",
+        "short_description": "Refreshing mango smoothie with yogurt and honey.",
+        "ingredients": [
+            "2 ripe mangoes",
+            "200 ml yogurt",
+            "50 ml honey",
+            "Ice cubes"
+        ],
+        "preparing_time": 10,
+        "calories": 180
+    }
+]
